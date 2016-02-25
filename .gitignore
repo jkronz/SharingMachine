@@ -1,0 +1,11 @@
+.bundle
+log/*.log
+tmp/
+.DS_Store
+app/.DS_Store
+app/views/.DS_Store
+json/
+.sass-cache
+.ruby-version
+config/database.yml
+config/amazon_s3.yml
